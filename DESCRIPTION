@@ -1,0 +1,11 @@
+Package: schooldistricts
+Type: Package
+Title: US Public & Private schools and school districts 2011
+Version: 0.1
+Date: 2015-08-31
+Author: Scott Shepard
+Maintainer: <scott@shepardmail.com>
+Description: US schools and school districts provided by the National
+  Center for Education Statistics
+License: MIT
+LazyData: TRUE
